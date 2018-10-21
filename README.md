@@ -13,4 +13,3 @@ Alpha-beta pruning for high speed. More effective than MCTS.
 ```bash
 $ cmake .
 ```
-
