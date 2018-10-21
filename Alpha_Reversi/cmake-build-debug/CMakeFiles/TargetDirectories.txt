@@ -1,0 +1,3 @@
+/Users/zhaoxuandong/CLionProjects/Alpha-Reversi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaoxuandong/CLionProjects/Alpha-Reversi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaoxuandong/CLionProjects/Alpha-Reversi/cmake-build-debug/CMakeFiles/alpha_reversi.dir

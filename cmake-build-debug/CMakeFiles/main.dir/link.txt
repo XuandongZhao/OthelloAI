@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -lcurl -O2 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/cpp/board.cpp.o CMakeFiles/main.dir/cpp/configure.cpp.o CMakeFiles/main.dir/cpp/network.cpp.o CMakeFiles/main.dir/cpp/autoPlay.cpp.o CMakeFiles/main.dir/cpp/evaluation.cpp.o  -o main 

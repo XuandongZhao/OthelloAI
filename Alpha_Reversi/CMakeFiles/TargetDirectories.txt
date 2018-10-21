@@ -1,0 +1,3 @@
+/Users/zhaoxuandong/CLionProjects/OthelloAlpha/Alpha_Reversi/CMakeFiles/rebuild_cache.dir
+/Users/zhaoxuandong/CLionProjects/OthelloAlpha/Alpha_Reversi/CMakeFiles/edit_cache.dir
+/Users/zhaoxuandong/CLionProjects/OthelloAlpha/Alpha_Reversi/CMakeFiles/alpha_reversi.dir
